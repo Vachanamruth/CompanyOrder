@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\CSharpTraining\CollectionLabs\CompanyOrders\CompanyOrders\bin\Debug\CompanyOrders.exe.config
+C:\Users\Admin\source\repos\CSharpTraining\CollectionLabs\CompanyOrders\CompanyOrders\bin\Debug\CompanyOrders.exe
+C:\Users\Admin\source\repos\CSharpTraining\CollectionLabs\CompanyOrders\CompanyOrders\bin\Debug\CompanyOrders.pdb
+C:\Users\Admin\source\repos\CSharpTraining\CollectionLabs\CompanyOrders\CompanyOrders\obj\Debug\CompanyOrders.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CSharpTraining\CollectionLabs\CompanyOrders\CompanyOrders\obj\Debug\CompanyOrders.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\CSharpTraining\CollectionLabs\CompanyOrders\CompanyOrders\obj\Debug\CompanyOrders.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CSharpTraining\CollectionLabs\CompanyOrders\CompanyOrders\obj\Debug\CompanyOrders.exe
+C:\Users\Admin\source\repos\CSharpTraining\CollectionLabs\CompanyOrders\CompanyOrders\obj\Debug\CompanyOrders.pdb
